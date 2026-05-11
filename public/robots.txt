@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://interim-ceo.noahstjohn.com/sitemap-index.xml
